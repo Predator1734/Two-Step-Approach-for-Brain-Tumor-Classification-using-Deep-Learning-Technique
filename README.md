@@ -1,1 +1,1 @@
-# Two-Step-Approach-for-Brain-Tumor-Classification-using-Deep-Learning-Technique
+# Two Step Approach for Brain Tumor Classification using Deep Learning Technique
